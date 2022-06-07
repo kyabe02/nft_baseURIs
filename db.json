@@ -5,6 +5,12 @@
 			"name": "genius",
 			"image": "https://cdn.discordapp.com/emojis/887028531211677708.webp?size=240&quality=lossless",
 			"description": "kyabe's first NFT."
-		}
+		},
+		{
+			"id": 1,
+			"name": "love",
+			"image": "https://cdn.discordapp.com/emojis/889566640633704499.webp?size=240&quality=lossless",
+			"description": "kyabe's first NFT."
+		}		
 	]
 }

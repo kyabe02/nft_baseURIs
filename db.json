@@ -53,5 +53,11 @@
 			"image": "https://cdn.discordapp.com/emojis/889566640633704499.webp?size=240&quality=lossless",
 			"description": "kyabe's first NFT."
 		}
-	]
+	],
+	"dummy": {
+		"id": -1,
+		"name": "dummy",
+		"image": "https://www.rbbtoday.com/imgs/p/RqJIzsl7cmxG8-cARbeaqilNLEDQQ0JFREdG/510534.jpg",
+		"description": "kyabe's first dummy."
+	}
 }
